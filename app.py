@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 from scipy.io import wavfile
-import moviepy.editor as mp # MoviePy is imported but not used for audio playback in this example
 import io
 import random
 
